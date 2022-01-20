@@ -1,0 +1,116 @@
+@media (max-width: 1399.98px) {}
+
+@media (max-width: 1199.98px) {}
+
+@media (max-width: 991.98px) {
+    .banner-img img {
+        max-width: 100%;
+    }
+
+    .banner-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .card-img img {
+        max-width: 100%;
+    }
+
+    .mt-30 {
+        margin-top: 30px;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    .banner-content {
+        text-align: center;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .banner-content h1 {
+        font-size: 45px;
+        margin-bottom: 0.5rem;
+    }
+
+    .banner-img {
+        text-align: center;
+    }
+
+    .section-title {
+        font-size: 38px;
+    }
+
+    .jacket-card {
+        padding: 25px 15px 35px 15px;
+    }
+
+    .price h3 {
+        font-size: 26px;
+    }
+
+    .buy-button .common-btn {
+        width: 140px;
+        height: 55px;
+        line-height: 55px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .logo img {
+        max-width: 150px;
+    }
+
+    .banner-content h1 {
+        font-size: 28px;
+        margin-bottom: 0px;
+    }
+
+    .banner {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .common-btn {
+        width: 160px;
+        height: 55px;
+        line-height: 55px;
+    }
+
+    .mt-20 {
+        margin-top: 20px;
+    }
+
+    .jacket,
+    .feature {
+        padding: 40px 0;
+    }
+
+    .section-title {
+        font-size: 30px;
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .items {
+        padding: 20px;
+    }
+
+    .icons {
+        text-align: center;
+    }
+
+    .icons img {
+        width: 78px;
+        height: 82px;
+    }
+
+    .f-content {
+        text-align: center;
+    }
+
+    .mt-15 {
+        margin-top: 15px;
+    }
+}
